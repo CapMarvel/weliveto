@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
     <div class="container">
-      <router-link to="/" class="navbar-brand">Vue Firebase Auth</router-link>
+      <router-link to="/" class="navbar-brand">welive.to</router-link>
       <button
         class="navbar-toggler"
         type="button"
