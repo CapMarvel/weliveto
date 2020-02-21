@@ -104,7 +104,7 @@ export default {
               displayName: this.form.name
             })
             .then(() => {
-              // associate the name field with the user
+              this.$router.push("/dashboard");
             });
         })
         .catch(err => {
